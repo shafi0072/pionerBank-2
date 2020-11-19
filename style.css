@@ -1,0 +1,40 @@
+.login_area{
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+}
+.log_main{
+    width: 100%;
+    margin: auto;
+    
+}
+.height
+{
+    height: 100px;
+    width: 100%;
+}
+.bankDetails{
+    display: none;
+}
+.cat-1{
+ background-image: linear-gradient(to left, rgb(0, 174, 255), rgb(0, 119, 255));
+ color: white;
+padding: 20px;
+border-radius: 10px;
+}
+.cat-2{
+    background-image: linear-gradient(to left, rgb(225, 0, 255), rgb(255, 0, 128));
+    color: white;
+   padding: 20px;
+   border-radius: 10px;
+}
+.cat-3{
+    background-image: linear-gradient(to left, rgb(0, 255, 76), rgb(0, 255, 98));
+    color: white;
+   padding: 20px;
+   border-radius: 10px;
+}
+.amount_area{
+ width: 100%;
+border: 1px solid lightgray;
+}
